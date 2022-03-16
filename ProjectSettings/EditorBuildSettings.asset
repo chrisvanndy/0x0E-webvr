@@ -6,8 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 9fc0d4010bbf28b4594072e72b8655ab
+    path: Assets/Lunar Landscape 3D/Scenes/LunarLandscape3D.unity
+    guid: f4021bc829b444148a3959ec85eeeceb
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: e74b9d4953249444db803e05c97cb985, type: 2}
     WebXR.Settings: {fileID: 11400000, guid: bdf752e3cc4644308921aa6d9ade3902, type: 2}

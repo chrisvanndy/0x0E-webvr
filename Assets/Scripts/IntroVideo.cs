@@ -4,13 +4,13 @@ using UnityEngine;
 
 public class IntroVideo : MonoBehaviour
 {
-    public GameObject video;
+    public GameObject canvas;
     public int timeDestroy;
 
     // Start is called before the first frame update
     void Start()
     {
-        Destroy(video, timeDestroy);
+        Destroy(canvas, timeDestroy);
     }
 
 }
